@@ -55,7 +55,7 @@ The average number of TON transactions per second, according to tonmon.xyz, is c
 
 Today, every transaction costs about **0.005 TON**.
 
-Even if TON’s price increases 100 times, _transactions will remain ultra-cheap_, less than $0.01. And do not forget that validators _may lower this value_ if they see commissions have become expensive.
+Even if TON’s price increases 50 times, _transactions will remain ultra-cheap_, less than $0.01. And do not forget that validators _may lower this value_ if they see commissions have become expensive.
 
 The current gas amount is written in [the config file](https://explorer.toncoin.org/config?workchain=-1&shard=8000000000000000&seqno=22185244&roothash=165D55B3CFFC4043BFC43F81C1A3F2C41B69B33D6615D46FBFD2036256756382&filehash=69C43394D872B02C334B75F59464B2848CD4E23031C03CA7F3B1F98E8A13EE05#configparam20).
 
